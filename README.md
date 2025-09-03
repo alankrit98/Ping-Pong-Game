@@ -16,7 +16,7 @@ A simple **Ping Pong Game** built using **HTML, CSS, and JavaScript**.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Ping-Pong-Game.git
+   git clone https://github.com/alankrit98/Ping-Pong-Game.git
    cd Ping-Pong-Game
    ```
 
@@ -35,9 +35,6 @@ A simple **Ping Pong Game** built using **HTML, CSS, and JavaScript**.
 - **Player 2 (Right Paddle):**
   - `Arrow Up` → Move Up
   - `Arrow Down` → Move Down
-
-## 📸 Screenshot
-_Add a screenshot of your game here._
 
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, or submit pull requests!
